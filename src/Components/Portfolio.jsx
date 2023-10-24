@@ -31,28 +31,28 @@ const imageAltText = "desktop with books and laptop";
  */
 const projectList = [
   {
-    title: "10 Things To Know About Azure Static Web Apps 🎉",
+    title: "AI Based Human Emotion Recognized System",
     description:
-      "Collaboration to create a beginner friendly article to help explain Azure Static Web Apps and tooling to get started.",
-    url: "https://dev.to/azure/10-things-to-know-about-azure-static-web-apps-3n4i",
+      "AI Based Human Emotion Recognition System is my impactful final year project,is my impactful final year project. Through collaboration with innovative minds Moheed, Rabab, and the pioneering Punjab Safe Cities Authority (PSCA), we've developed a Python-based system",
+    url: "https://www.facebook.com/SuperiorUniversityOfficial/photos/a.163791823929/10159456035933930/",
   },
   {
-    title: "Web Development for Beginners",
+    title: "Queuing_System_Simulator",
     description:
-      "Contributed sketch note imagery to accompany each lesson. These help provide visual representation of what is being taught.",
-    url: "https://github.com/microsoft/web-dev-for-beginners",
+      "This semester project involves creating a C++ simulation program for modeling queuing systems using M/M/1 and M/M/1/k queueing models. It simulates message flow among clients, gateways, and servers, calculating performance metrics like average waiting and system times, and exports results to a CSV file. However, it has limitations like assuming exponential distributions for arrival and service times, ignoring complex scheduling and external factors, and lacking real-time visualization or interactivity. Careful consideration of these limitations is essential for matching the simulator to specific queuing system scenarios.",
+    url: "https://github.com/moheed-ali/Queuing-System-Simulator",
   },
   {
-    title: "My Resume Site",
+    title: "Filesystem project",
     description:
-      "Created from Microsoft's resume workshop and deployed to GitHub pages. Includes my experience and design abilities.",
-    url: "https://github.com/microsoft/workshop-library/tree/main/full/build-resume-website",
+      "In my Operating System and Computer Architecture semester project, I've developed a File System Operations Simulator. The main file's code enables users to perform essential file system tasks like creating, renaming, deleting files, and managing the FAT table. The user-friendly interface presents a list of options, including directory entry printing and FAT table visualization, enhancing comprehension of these crucial concepts.",
+    url: "https://www.linkedin.com/in/maham-fatima-kayani/details/projects/",
   },
   {
-    title: "GitHub Codespaces and github.dev",
+    title: "Travel Pakage Hub",
     description:
-      "Video interview to explain when to use GitHub.dev versus GitHub Codespaces, and how best to use each tool.",
-    url: "https://www.youtube.com/watch?v=c3hHhRME_XI",
+      "This project creates a comprehensive travel management database with tables storing essential data about administrators, customers, passports, countries, visas, travel packages, hotels, and more. It leverages SQL CRUD operations (Create, Read, Update, Delete) for efficient management of travel-related details, including visas, package types, and costs. SQL JOIN operations are crucial for connecting and retrieving interconnected data, enhancing the database's effectiveness in facilitating travel management processes",
+    url: "https://github.com/maham-kayani/Travel-Pakage-Hub",
   },
 ];
 
